@@ -36,6 +36,7 @@ a {
 .link_container li {
   margin-left: 2rem;
   list-style: none;
+  font-size: 18px;
 }
 .img_1 {
   display: inline-block;
@@ -44,4 +45,25 @@ a {
   vertical-align: top;
   margin-bottom: 10px;
   margin-top: 10px;
+}
+.sect {
+  display: flex;
+  background-color: var(--dark-background);
+  padding: 2rem 7em 3rem 7em;
+  color: var(--hero-color);
+}
+.sect h1 {
+  font-size: 48px;
+  font: bold;
+  font-family: var(--inter);
+}
+.sect p {
+  font-size: 18px;
+}
+.btn_signup {
+  padding: 0.3rem 1rem;
+  border-radius: 0.4rem;
+  margin-top: 1rem;
+  background-color: var(--button-color);
+  color: var(--hero-color);
 }
