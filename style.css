@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@400;700;800&display=swap");
+
+:root {
+  --inter: "inter", sans-serif;
+  --create: "Crete Round", serif;
+  --dark-background: #1f2937;
+  --hero-color: #f9faf8;
+  --hero-sec: #e5e7eb;
+  --button-color: #3882f6;
+  --info-text: #1f2937;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: var(--hero-sec);
+  overflow: hidden;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--dark-background);
+  height: 80px;
+  align-items: center;
+  padding: 0 7em 0 7em;
+}
+
+.link_container {
+  display: flex;
+  list-style: none;
+}
+.link_container li {
+  margin-left: 2rem;
+  list-style: none;
+}
+.img_1 {
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  vertical-align: top;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
