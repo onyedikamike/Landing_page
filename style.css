@@ -107,7 +107,8 @@ a {
   background-color: var(--hero-color);
 }
 .section_3 p {
-  font-size: 18px;
+  font-size: 36px;
+  font-style: light italic;
   margin-right: 50px;
   margin-left: 50px;
   padding-left: 100px;
@@ -121,4 +122,19 @@ a {
   display: flex;
   padding-right: 100px;
   margin-right: 70px;
+}
+.call {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 0;
+}
+.call > div {
+  display: flex;
+  align-items: center;
+  padding: 1.5rem 7rem;
+  background-color: var(--button-color);
+  border-radius: 8px;
+  column-gap: 2rem;
+  color: var(--hero-sec);
 }
