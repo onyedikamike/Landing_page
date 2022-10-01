@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+#Landing Page
 
-> Description the project.
+>This project is about building a landing page of an African kitchen and also portraying what is make up of..
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Flexbox
 
 ## Live Demo (if available)
 
@@ -27,8 +27,14 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 ### Setup
+VsCode
+Git
 
 ### Install
+Node.js
+Prettier
+Live Server
+Code Runner
 
 ### Usage
 
@@ -42,9 +48,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Onyedikamike)
+- Twitter: [@twitterhandle](https://twitter.com/Onyedikamike)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Onyedikaokoro)
 
 👤 **Author2**
 
